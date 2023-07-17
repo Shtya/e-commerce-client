@@ -1,0 +1,31 @@
+
+
+
+.font{
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+.Nav{
+  height: 80px;
+  overflow: hidden;
+  z-index: 100000;
+  position: relative;
+  padding: 0;
+}
+
+.Nav1 {
+
+  input{
+    height: 40px !important;
+  }
+}
+
+.form{
+  @include mobile{
+
+    .user-input{
+      width: 200px !important;
+    }
+  }
+}

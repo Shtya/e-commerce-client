@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88c0ec96.css",
+    "main.js": "/static/js/main.968fbd02.js",
+    "static/media/laptops.png": "/static/media/laptops.a5a6ab642345b5d38784.png",
+    "static/media/slider4.png": "/static/media/slider4.8049dedb7c458a0534a5.png",
+    "static/media/prod4.png": "/static/media/prod4.60c973db7361e54bb831.png",
+    "static/media/slider1.png": "/static/media/slider1.2d6dc5a9c0fd289461ee.png",
+    "static/media/prod3.png": "/static/media/prod3.c073f706ba444448c519.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/mobile.png": "/static/media/mobile.1c4bc892a60e36742151.png",
+    "static/media/prod1.png": "/static/media/prod1.9f9a0d840227c590ac5d.png",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/clothe.png": "/static/media/clothe.63497de16012693f71f1.png",
+    "static/media/cat2.png": "/static/media/cat2.cb9155160d37d36502be.png",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/labtop.png": "/static/media/labtop.72427ac57eccb337dd2b.png",
+    "static/media/pic.png": "/static/media/pic.c1f340e9b514ac94aa83.png",
+    "static/media/sale.png": "/static/media/sale.fd3bd0e8262078e4961a.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/avatar.png": "/static/media/avatar.f5ed20588df8bb546e2d.png",
+    "static/media/brand3.png": "/static/media/brand3.1a0049b1f1a261d0e6d1.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/index.html",
+    "main.88c0ec96.css.map": "/static/css/main.88c0ec96.css.map",
+    "main.968fbd02.js.map": "/static/js/main.968fbd02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88c0ec96.css",
+    "static/js/main.968fbd02.js"
+  ]
+}
