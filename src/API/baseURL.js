@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseURL = axios.create({baseURL : "http://127.0.0.1:9000"})
+const baseURL = axios.create({baseURL : "https://e-commerce-server-8tf1.onrender.com/"})
 
 export default baseURL
 
